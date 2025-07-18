@@ -1,2 +1,2 @@
-# Power-bi-corona-vaccination-Dasgboard
+# Power-bi-corona-vaccination-Dashboard
 corona vaccination clear explanation Dashboard
